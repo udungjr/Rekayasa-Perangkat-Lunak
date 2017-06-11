@@ -1,0 +1,21 @@
+tugas 4
+1. applet
+2. assembler
+3. attribute
+4. byte code
+5. C#
+6. CGI ( Common Gateaway Interface )
+7. Compiler
+8. Event 
+9. XML (Expensible Mail Language )
+10. Information Hidding
+11. JVM ( Java Virtual Machine )
+12. Linux
+13. Bahasa Mesin
+14. OOP
+15. Polymorhpis
+16. scrip
+17. SQL 
+18. Syntax
+19. Driver
+20. Java
