@@ -1,2 +1,2 @@
 # Rekayasa-Perangkat-Lunak
-  #All being human was understanding
+  # All being human was understanding
