@@ -1,0 +1,30 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+import java.util.LinkedList;
+import java.util.Queue;
+
+/**
+ *
+ * @author Sleepy
+ */
+public class Queues {
+
+    public static void main(String[] args) {
+        Queue qu = new LinkedList();
+        System.out.println("Push 'Apple' ke dalam queue");
+        qu.add("Apple");
+        System.out.println("Push 'Barbeque' ke dalam queue");
+        qu.add("Barbeque");
+        System.out.println("Push 'Candy' ke dalam queue");
+        qu.add("Candy");
+        System.out.println("Isi queue : " + qu.toString());
+        System.out.println("Keluarkan data Front : " + qu.remove());
+        System.out.println("Push 'Deer' ke dalam queue");
+        qu.add("Deer");
+        System.out.println("Isi queue : " + qu.toString());
+    }
+}
